@@ -1,4 +1,4 @@
-# sorting-algorithms 📦
+# Sorting algorithms 📦
 
 A package with various sorting algorithms and tests for them, implemented in Python
 
